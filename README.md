@@ -59,4 +59,4 @@ This project is licensed under the terms of the MIT license.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 👩‍💻 Author
-Your Name
+3rikMtz

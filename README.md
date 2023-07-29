@@ -11,6 +11,15 @@ You will be committing a file containing your database credentials. Be sure to u
 
 Asynchronous queries can be beneficial. MySQL2 provides a `.promise()` function on Connections to convert an existing non-Promise connection to use Promises. To learn more and make your queries asynchronous, refer to the [npm documentation on MySQL2](https://www.npmjs.com/package/mysql2).
 
+Initial Steps
+✅ Have MySQL installed.
+✅ Have Node.js installed.
+✅ Install npm inside the project and all the required dependencies (mysql2, inquirer, dotenv).
+✅ Run source develop/db/schema.sql; in the MySQL shell.
+Once you have completed all of these steps, you can type the following command inside the terminal:
+npm start
+
+
 ## 📝 User Story
 As a business owner, I want to be able to view and manage the departments, roles, and employees in my company, so that I can organize and plan my business more efficiently.
 
@@ -41,7 +50,7 @@ The schema should contain the following three tables:
 Check the project instructions for specific details about the structure of these tables.
 
 ## 📹 Demo
-Please refer to the demo video to see how the application works.
+https://drive.google.com/file/d/173uM-FxcOTLDj6BXAk3CBxItPbZhEH0R/view
 
 ## 📜 License
 This project is licensed under the terms of the MIT license.
